@@ -1,7 +1,4 @@
 
-
-
-
 /* 1. Reset tags
 -------------------------------------------------------------- */
 html, body, div, span, applet, object, iframe,
@@ -1773,10 +1770,7 @@ body.menu_style_right {
 .menu_style_left .menu_side_wrap.opened .menu_side_button:before {	content: '\e92a'; }
 
 
-/* Undefined layout */
-.no_layout .top_panel_navi {
-	visibility:hidden;
-}
+
 
 /* Mobile menu */
 body.mobile_layout.menu_style_left {	margin-left: 0; }
